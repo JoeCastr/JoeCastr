@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JoeCastr
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how to make a project that looks and feels professional
-- 💞️ I’m looking to collaborate on anything that I can contribute meaningfully
+- 👋 Hi, I’m Joseph
+- 👀 I’m interested in web development
+- 🌱 I’m currently getting my second Bachelor's degree at SNHU in Computer Science emphasis in Software Engineering
+- 🌱 I've interned at Clearwater Analytics, Keysight Technologies, and Allstate - Arity
 - 📫 How to reach me say hi on LinkedIn https://www.linkedin.com/in/josephcastrigno
 
 <!---
